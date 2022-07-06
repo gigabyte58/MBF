@@ -139,7 +139,7 @@ def waktu():
 def menu_apikey():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
-  server = requests.get('https://pastebin.com/raw/T0NDrmpJ').text
+  server = requests.get('https://pastebin.com/raw/5gAmA8AJ').text
   print("\x1b[0;34m -----------------------------------------------------------------------------------");time.sleep (0.03)
   print("\x1b[0;34m PREMIUM<>MEMBERSHIP                                                                           ");time.sleep (0.03)
   print("\x1b[0;34m 1 MONTH 15$                                                                  ");time.sleep (0.03)
